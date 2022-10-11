@@ -7,7 +7,7 @@ coding.append("self build")
 num =[]
 num.append("speed" )
 num.append("okits")
-
+Print('lokok')
 
 print(nums)
 print(coding)
